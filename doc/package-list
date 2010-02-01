@@ -1,0 +1,15 @@
+com.wissen.eportal.client
+com.wissen.eportal.client.constants
+com.wissen.eportal.client.controllers
+com.wissen.eportal.client.data
+com.wissen.eportal.client.observers
+com.wissen.eportal.client.services
+com.wissen.eportal.client.widgets
+com.wissen.eportal.server
+com.wissen.eportal.server.constants
+com.wissen.eportal.server.domainobjects
+com.wissen.eportal.server.emailxml
+com.wissen.eportal.server.hibernate
+com.wissen.eportal.server.impl
+com.wissen.eportal.server.impl.util
+com.wissen.eportalTest.server
